@@ -10,7 +10,7 @@ rf_model = saved_objects["model"]
 label_encoders = saved_objects["encoders"]
 
 # Streamlit App Title
-st.title("📞 Fraud Detection by Knownn")
+st.title("📞 Call-Fraud Detection by Knownn")
 
 # User Input Form
 st.sidebar.header("Enter Call Details")
